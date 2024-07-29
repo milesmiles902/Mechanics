@@ -1,3 +1,3 @@
 <ins>Statistical Mechanics (Chapters 1-9)</ins> 
 
-Cite: Statistical Mechanics, Jansen, Henri. J. Oregon State University. 2011.
+Cite: Jansen, Henri. J. (2011). Statistical Mechanics. Oregon State University.
